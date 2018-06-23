@@ -1,0 +1,24 @@
+{
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/k",
+        "C:\\Program Files\\Git\\bin\\bash.exe"
+    ],
+    "editor.fontSize": 13,
+    "editor.wordWrap": "on",
+    
+
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMapByFileExtension": {
+        ".ahk": "C:\\Program Files (x86)\\AutoHotkey\\AutoHotkey.exe"
+    },
+    "extensions.ignoreRecommendations": false,
+    "window.restoreWindows": "none",
+    "workbench.startupEditor": "none",
+    "workbench.editor.enablePreview": false,
+    "editor.parameterHints": false, 
+    "html.autoClosingTags": false,
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.donotShowInfoMsg": true
+}
