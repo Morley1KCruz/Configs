@@ -34,5 +34,5 @@ notepad "C:\Users\Kevin\.bashrc"
 
 # Go to the code folder
 function home(){
-    cdd "C:\Users\Kevin\Documents\Code"
+    cdl "C:\Users\Kevin\Documents\Code"
 }
