@@ -21,7 +21,7 @@ ls
 }
 
 #Changes directory and then list files function
-function cdl(){
+function cds(){
 cd "$1"
 ls
 }
@@ -30,9 +30,15 @@ ls
 function config(){
 notepad "C:\Users\Kevin\.bash_profile"
 notepad "C:\Users\Kevin\.bashrc"
+notepad "C:\Users\Kevin\Documents\Code\Configs\Bash Settings\.bashrc"
 }
 
 # Go to the code folder
 function home(){
     cdl "C:\Users\Kevin\Documents\Code"
+}
+
+# Run MySQL config file for root
+function mys(){
+    mysql -u root -p < "$1"
 }
