@@ -1,0 +1,16 @@
+"*":
+  core:
+    disabledPackages: [
+      "welcome"
+      "wrap-guide"
+    ]
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+    uriHandlerRegistration: "always"
+  editor:
+    softWrap: true
+  "exception-reporting":
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
