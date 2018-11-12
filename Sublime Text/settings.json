@@ -1,0 +1,11 @@
+{
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Open In Browser",
+		"Vintage"
+	],
+	"word_wrap": true,
+	"remember_open_files": false,
+	"hot_exit": false
+}
