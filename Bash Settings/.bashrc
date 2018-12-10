@@ -2,9 +2,10 @@
 #test -f ~/.profile && . ~/.profile
 #test -f ~/.bashrc && . ~/.bashrc
 alias bnode='babel-node --presets es2015,stage-2'
-alias subl="subl.exe"
+alias subl='/c/Program\ Files\ \(x86\)/Sublime Text 3/subl.exe'
 alias notepad="/c/Program\ Files\ \(x86\)/Notepad++/notepad++.exe"
 alias tree="cmd //c tree"
+alias ahk="/c/Program\ Files\ \(x86\)/AutoHotkey/AutoHotkey.exe"
 
 #Combines git functions to smoothly push to origin master
 function gits() {
