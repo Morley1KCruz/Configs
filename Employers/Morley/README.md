@@ -37,3 +37,5 @@ General Notes
 
 ### Bluebeam Administrator 2018
 Run as admin => set as default PDF viewer
+
+### disable waggle

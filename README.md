@@ -51,3 +51,10 @@ Configs for various programs I use
 #### Setup folder structure
 * Look at old computer (if applicable)
 * Add shorcuts to Quick Access
+
+
+#### Taskbar
+* iCUE
+* AHK
+* LED Manager
+* Remove show people on the taskbar

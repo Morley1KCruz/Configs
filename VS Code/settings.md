@@ -1,0 +1,2 @@
+### Extensions
+* AutoHotKey extension
