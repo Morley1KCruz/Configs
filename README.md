@@ -42,3 +42,7 @@ Configs for various programs I use
 
 #### Downloads Folder
 * Make True Downloads folder
+
+
+#### Numlock
+* Turn on on boot
