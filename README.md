@@ -46,3 +46,8 @@ Configs for various programs I use
 
 #### Numlock
 * Turn on on boot
+
+
+#### Setup folder structure
+* Look at old computer (if applicable)
+* Add shorcuts to Quick Access

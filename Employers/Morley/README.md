@@ -24,3 +24,16 @@ General Notes
 * Diaplay Full Path
 * Show hidden files
 * Uncheck hide file extensions for known types
+
+### Taskbar
+* set taskbar
+
+
+### Quick Access
+* Options => Uncheck Show recently used filed in Quick Access
+* Options => Uncheck show frequently used folders in Quick Access
+* Setup quick access shortcuts
+
+
+### Bluebeam Administrator 2018
+Run as admin => set as default PDF viewer
