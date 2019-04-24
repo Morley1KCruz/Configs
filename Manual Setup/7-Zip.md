@@ -1,1 +1,2 @@
-Tools => Options => 7-Zip => Context menu items
+# 7 Zip
+Tools => Options => 7-Zip => uncheck context menu items

@@ -1,41 +1,26 @@
-General Notes
+# Configs
+Configs for various programs I use
 
-### Chrome
-* Import Bookmarks
-* 80% Zoom
-* Login to Accounts
-
-### Windows Settings
-* Game Bar - Off
-* "How to add color to inactive title bars"
-
-* Power and Sleep - Never and Never
-* Taskbar - Show taskbar on all displays
-
-### Import iCUE profiles
-
-
-### Outlook Settings
-* Reading Pane - Don't Mark as Read
-* File => Options => Advanced => Outlook Panes => Reading Pane => Mark Item as Read When Selection Changes
-* 
-
-### Windows Folder Options
-* Diaplay Full Path
-* Show hidden files
-* Uncheck hide file extensions for known types
-
-### Taskbar
-* set taskbar
-
-
-### Quick Access
-* Options => Uncheck Show recently used filed in Quick Access
-* Options => Uncheck show frequently used folders in Quick Access
-* Setup quick access shortcuts
-
-
-### Bluebeam Administrator 2018
-Run as admin => set as default PDF viewer
-
-### disable waggle
+### List of Applications
+* 7-Zip
+* Atom
+* Audacity
+* AutoHotKey
+* Bluebeam Revu
+* CORSAIR iCUE
+* Crystal Reports
+* GIMP
+* GIT for Windows
+* Chrome
+* M-Files
+* Microsoft SQL Server 2016 Report Builder
+* Microsoft Visual Studio 2019
+* Mozilla Firefox
+* Microsoft Office 365
+* Microsoft SQL Server 2017
+* NVidia Control Panel
+* OBS Studio
+* Python 3
+* Roboform
+* Snagit 13
+* VLC Media Player
