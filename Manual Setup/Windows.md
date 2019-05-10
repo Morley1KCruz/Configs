@@ -54,3 +54,6 @@
 * set taskbar see image
 
 ### Import iCUE profiles
+
+#### Disable Waggle
+#### Change the scrollbar width to 30px
