@@ -2,6 +2,7 @@
 * Wappalyzer
 * View Image
 * Options
-*  Manually set button text: More Sizes
+* Manually set button text: More Sizes
 * Trello List highlighter
 * Enable seperator cards
+* Search engines in chrome
